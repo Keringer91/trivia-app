@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import {TriviaStore} from './TriviaStoreModule'
-import {ChuckStore} from './ChuckStoreModule'
+import {TriviaStoreModule} from './TriviaStoreModule'
+import {ChuckStoreModule} from './ChuckStoreModule'
 
 Vue.use(Vuex)
 

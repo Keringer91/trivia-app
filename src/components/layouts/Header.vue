@@ -8,6 +8,9 @@
             <li class="nav-item active">
             <router-link class="nav-link" v-bind:to="'/'">TriviaApp</router-link>
             </li>
+            <li class="nav-item active">
+            <router-link class="nav-link" v-bind:to="'/chuck'">Chuck</router-link>
+            </li>
         </ul>
         </div>
     </nav>

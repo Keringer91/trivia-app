@@ -1,4 +1,4 @@
-import {triviaService} from './../services/TriviaService'
+// import {triviaService} from './../services/TriviaService'
 
 export const TriviaStoreModule = {
     state: {
